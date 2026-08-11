@@ -8,7 +8,9 @@ It is designed as a small educational project and focuses on clarity, basic vali
 From the project folder, go to `milestone1.ipynb`. Then click `Run All Cells`. The program expects these inputs in order:
 
 Loan amount: a positive number, such as 10000
+
 Interest rate: a percentage value, such as 5
+
 Loan term: a positive number, such as 3
 
 It will reject invalid values such as:
