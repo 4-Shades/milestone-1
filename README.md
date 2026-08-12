@@ -1,7 +1,7 @@
-# Milestone 1: Loan Interest Calculator
+# Milestone 1: Simple Interest Calculator
 
 ## 1. 
-This application is a simple Python-based command-line tool that calculates the interest on a loan and the total amount payable over the loan term. It accepts user input for loan amount, annual interest rate, and term in years, validates the values, and prints the computed results.
+This application is a simple Python-based command-line tool that calculates the simple interest on a loan and the total amount payable over the loan term. It accepts user input for loan amount, annual interest rate, and term in years, validates the values, and prints the computed results.
 It is designed as a small educational project and focuses on clarity, basic validation, and accurate financial calculation.
 
 ## 2. 
